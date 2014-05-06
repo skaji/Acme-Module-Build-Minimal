@@ -1,0 +1,4 @@
+name = "Acme-Module-Build-Minimal"
+# badges = ["travis"]
+authority="cpan:SKAJI"
+
